@@ -1,0 +1,19 @@
+.text span{
+    color: #525252;
+    font-size: 15px;
+}
+.text p{
+    color: #3B97CB;
+    font-size: 12px;
+}
+.amount span{
+    color: #535353;
+    font-size: 10px;
+    width: max-content;
+    display: block;
+}
+.amount h5{
+    color: #0099EE;
+    font-size: 14px;
+    width: max-content;
+}

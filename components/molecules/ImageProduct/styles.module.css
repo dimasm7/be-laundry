@@ -1,0 +1,22 @@
+.wrapper{
+    box-shadow: 0px 4px 4px 0px rgba(0, 153, 238, 0.17);
+    display: block;
+}
+.wrapper img{
+    max-width: calc(100% + 11px);
+    width: calc(100% + 11px);
+    margin-left: -6px;
+}
+.wrapperText{
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgba(0, 153, 238, 0.00) 0%, #3B97CB 100%);
+}
+.wrapperText h1,.wrapperText p{
+    color: #FFF;
+}
+.wrapperText h1{
+    font-size: 23px;
+}.wrapperText p{
+    font-size: 17px;
+}

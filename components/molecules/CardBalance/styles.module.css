@@ -1,0 +1,26 @@
+.wrapperCard{
+    border-radius: 10px;
+    height: 167px;
+}
+.bigCircle{
+    width: 139px;
+    height: 139px;
+    background-color: #0099EE;
+    top: -54.5px;
+    left: -45px;
+}
+.smallCircle{
+    width: 29px;
+    height: 29px;
+    background-color: #F36868;
+    top: 24px;
+    left: 103px;
+}
+.wrapperCard span{
+    color: #535353;
+    font-size: 18px;
+}
+.wrapperCard h1{
+    color: #0099EE;
+    font-size: 36px;
+}

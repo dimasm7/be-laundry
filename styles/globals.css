@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.w-page{
+  width: 500px;
+  background-color: #E7F5FD;
+  overflow: hidden;
+}
+.pony{
+  border-radius: 567px;
+  background: #F36868;
+  height: 404px;
+  margin-top: -149px;
+  width: calc(100% + 67px);
+  margin-left: -33.5px;
+}
+ 
+section.balance{
+   margin-top: -146px;
+}
+section.balance h1{
+  font-size: 22px;
+}
+h1{
+   color: #3B97CB;
+}

@@ -1,0 +1,22 @@
+.wrapper:hover{
+    opacity: 0.7;
+}
+.text span{
+    color: #525252;
+    font-size: 16px;
+}
+.text p{
+    color: #535353;
+    font-size: 10px;
+}
+.text h4{
+    color: #0099EE;
+    font-size: 15px;
+}
+.wrapperInvoice{
+    background: linear-gradient(137deg, #099DEF 0%, rgba(9, 157, 239, 0.42) 100%);
+}
+.wrapperInvoice span{
+    font-size: 10px;
+    margin-top: 11px;
+}

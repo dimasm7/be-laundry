@@ -6,8 +6,12 @@ export default class Document extends NextDocument {
       <Html lang="en">
         <Head></Head>
         <body>
-          <Main />
-          <NextScript />
+          <div className="flex justify-center">
+              <div className="min-h-screen w-page text-white">
+                <Main />
+                <NextScript />
+              </div>
+          </div>
         </body>
       </Html>
     );

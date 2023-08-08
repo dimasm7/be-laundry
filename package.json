@@ -23,11 +23,14 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.3",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "typescript": "5.1.6"
   },
   "devDependencies": {
     "@tanstack/react-query": "^4.32.6",
     "@tanstack/react-query-devtools": "^4.32.6",
+    "@types/react-slick": "^0.23.10",
     "autoprefixer": "^10.4.14",
     "eslint-config-prettier": "^8.10.0",
     "postcss": "^8.4.27",
