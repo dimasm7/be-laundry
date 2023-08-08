@@ -2,11 +2,16 @@
 
 🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!
 
-To get started, run:
+## Running locally in development mode
 
-```bash
-npm run dev
-```
+To get started, just clone the repository and run `npm install && npm run dev`:
+
+    git clone https://github.com/dimasm7/be-laundry
+    npm install
+    npm run dev
+
+Note: If you are running on Windows run install --noptional flag (i.e. `npm install --no-optional`) which will skip installing fsevents.
+
 
 ## Final Steps
 
